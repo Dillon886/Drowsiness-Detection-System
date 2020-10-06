@@ -7,4 +7,8 @@ Driver drowsiness detection is a car safety technology which helps to save the l
 # Minimum System Requirements
 Dual Core Processor 
 and 4 GB RAM 
-
+# Basic python libraries used 
+-numpy
+-pandas
+-opencv
+-dlib
