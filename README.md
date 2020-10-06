@@ -9,7 +9,7 @@ Dual Core Processor
 and 4 GB RAM 
 ## Basic python libraries used 
 numpy,                                                                                                                                                                         pandas,                                                                                                                                                                         opencv,                                                                                                                                                                         dlib
-## Model to add facial landmarks on the face region is from the link below
+## Model to add facial landmarks on the face region is in the link below
 https://github.com/italojs/facial-landmarks-recognition
 ## Files in the repository
 drowsiness_yawn1 program.py: Python program file of the drowsiness detection system using Eye Aspect Raatio and Yawn Detection 
