@@ -5,10 +5,6 @@ More than 6,000 people die in drowsy driving-related crashes in the US alone eac
 # Objective and Scope
 Driver drowsiness detection is a car safety technology which helps to save the life of the driver by preventing accidents when the driver is getting drowsy. The main objective is to first design a system to detect driver’s drowsiness by continuously monitoring the drivers eyes. The system works in various lighting conditions and alerts the driver on the detection of drowsiness by using buzzer or alarm.
 # Minimum System Requirements
-Hardware requirements: 
-  Processor: Dual Core or above 
-  RAM: 4 GB and above
+Processor: Dual Core or above 
+4 GB RAM and above
 
-Software requirements: 
-  Operating System: Windows
-  Technology used: Python IDE.
