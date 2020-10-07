@@ -7,8 +7,12 @@ Driver drowsiness detection is a car safety technology which helps to save the l
 ## Minimum System Requirements
 * Dual Core Processor 
 * 4 GB RAM 
-## Basic python libraries used 
-* numpy                                                                                                                                                                            * pandas                                                                                                                                                                           * opencv                                                                                                                                                                           * dlib
+## Libraries used
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
 ## Model to add facial landmarks on the face region is in the link below
 https://github.com/italojs/facial-landmarks-recognition/raw/master/shape_predictor_68_face_landmarks.dat
 ## Files in the repository
